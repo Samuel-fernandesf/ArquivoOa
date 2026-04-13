@@ -34,10 +34,9 @@ O projeto foi desenhado para ser escalável, com as seguintes melhorias planejad
 ## Instalação e Execução
 
 ### Pré-requisitos
-
-*   Python 3.12+
-*   MySQL 8.0+
-*   Git
+* Node.js
+* Expo Go
+* Android Studio (opcional)
 
 ### Passo a Passo
 
